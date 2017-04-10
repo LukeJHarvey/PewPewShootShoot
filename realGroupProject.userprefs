@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ZuesBehavior.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ZuesBehavior.cs" Line="19" Column="38" />
+      <File FileName="Assets/Scripts/ZuesCanvasScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyBehavior.cs" Line="51" Column="68" />
+      <File FileName="Assets/Scripts/PlayerBehavior.cs" Line="174" Column="4" />
+      <File FileName="Assets/Scripts/BulletBehavior.cs" Line="12" Column="17" />
+      <File FileName="Assets/Scripts/ZombieLineOfSight.cs" Line="39" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
